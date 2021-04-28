@@ -7,6 +7,6 @@
 - [Task modify category](https://github.com/taskKG/taskKG.github.io/blob/main/task_post_data/task_post.xlsx). This data shows the manual classification results for each task post title modification category. We classified the edit record into four categories:Edit Action、Edit Object、Edit Constraint and Others.
 
 ## experiments
-- [RQ1](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ2.replication.xlsx). We evaluate the intrinsic quality of the task KG by assessing the correctness of the annotated questions in the task KG. 
-- [RQ2](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ3.replication.xlsx). We evaluate the effectiveness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
+- [RQ1](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ1.replication.xlsx). We evaluate the intrinsic quality of the task KG by assessing the correctness of the annotated questions in the task KG. 
+- [RQ2](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ2.replication.xlsx). We evaluate the effectiveness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
  
