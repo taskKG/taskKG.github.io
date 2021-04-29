@@ -14,3 +14,7 @@
 -  We evaluate the effectiveness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
 #### [Select Participants Questionnaire](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskKGQuestion.docx)
 - We used the questionnaire to find out each participant's programming ability in order to complete the selection and group experiment.
+#### [Programming Tasks](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskList.replication.docx)
+- We set up a total of four programming tasks, here are detailed input and output of each task.
+#### [TaskKG Tool Evaluation](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskKGToolEvaluation.docx)
+- After the experiment, we invited the participants to evaluate the TaskKG tool, and the results are as shown in the document.
