@@ -7,12 +7,8 @@
 - [Edit Record Classification](https://github.com/taskKG/taskKG.github.io/blob/main/task_post_data/Edit_Record_Classification.xlsx). This file includes the manual classification results for sampled title edit records. We classified the edit record into four categories: Edit Action、Edit Object、Edit Constraint and Others. Last four columns indicate the classification result for those four category. “1” represents that the edit record belongs to the category and “0” represents that the edit record doesn’t belong to the category.
 
 ## Experiments
-- [RQ1](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ1.replication.xlsx).We evaluate the intrinsic quality of the task KG by assessing the correctness of the annotated questions in the task KG. 
+- [RQ1](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ1.replication.xlsx). We evaluate the intrinsic quality of the task KG by assessing the correctness of the annotated questions in the task KG. 
+- [RQ2](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ2.replication.xlsx). We evaluate the effectiveness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
+  - [Participants Selection](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/Participants_Selection_Questionnaire.docx). To recruit participants, we used a questionnaire to select 16 qualified students from a class of 49 students as participants. The questionnaire assessed their programming knowledge and whether they would need help to complete the four given programming tasks. The doc is the questionnaire to select participants.
+  - [Programming Tasks](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskList.replication.docx). Tasks with detail context. The file includes all tasks with detail context.
 
-- [RQ2](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ2.replication.xlsx).We evaluate the effectiveness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
-#### [Participants Selection](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskKGQuestion.docx)
-- We used the questionnaire to find out each participant's programming ability in order to complete the selection and group experiment.
-#### [Programming Tasks](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskList.replication.docx)
-- We set up a total of four programming tasks, here are detailed input and output of each task.
-#### [TaskKG Tool Evaluation](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskKGToolEvaluation.docx)
-- After the experiment, we invited the participants to evaluate the TaskKG tool, and the results are as shown in the document.
