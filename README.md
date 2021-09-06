@@ -8,7 +8,9 @@
 
 ## Experiments
 - [RQ1](https://github.com/taskKG/taskKG.github.io/blob/main/RQ/RQ1.replication.xlsx). We evaluate the intrinsic quality of the task KG by assessing the correctness of the annotated questions in the task KG. 
-- RQ2. We evaluate the effectiveness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
+- RQ2. We compared ChatBot4QR and TaskKQ4Q through [18 questions](https://github.com/taskKG/taskKG.github.io/blob/main/SOQuestions.xlsx) from Stack Overflow. We invited 9 participants to use different tools to complete the title of the corresponding question. Evaluate and get the [results](https://github.com/taskKG/taskKG.github.io/blob/main/Result.xlsx).
+- RQ3. We evaluate the usefulness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
   - [Participants Selection](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/Participants_Selection_Questionnaire.docx). To recruit participants, we used a questionnaire to select 16 qualified students from a class of 49 students as participants. The questionnaire assessed their programming knowledge and whether they would need help to complete the four given programming tasks. The doc is the questionnaire to select participants.
   - [Programming Tasks](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskList.replication.docx). Tasks with detail context. The file includes all tasks with detail context.
+  - The KG we built will be released after the paper is accepted
 
