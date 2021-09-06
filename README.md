@@ -12,5 +12,5 @@
 - RQ3. We evaluate the usefulness of TaskKQ4Q by asking participants to complete a set of programming tasks. When they need to learn how to solve a specific task, we ask them to find the specifics on Stack Overflow. They do that writing questions on their own and with the TaskKQ4Q tool. 
   - [Participants Selection](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/Participants_Selection_Questionnaire.docx). To recruit participants, we used a questionnaire to select 16 qualified students from a class of 49 students as participants. The questionnaire assessed their programming knowledge and whether they would need help to complete the four given programming tasks. The doc is the questionnaire to select participants.
   - [Programming Tasks](https://github.com/taskKG/taskKG.github.io/blob/main/experiments/TaskList.replication.docx). Tasks with detail context. The file includes all tasks with detail context.
-  - The KG we built will be released after the paper is accepted
+  - The KG we built will be released after the paper is accepted.
 
